@@ -39,6 +39,9 @@ Creates a custom t-shirt with a specified logo.
 }
 ```
 
+**Example Request:**
+![POST Request Example](img/POST.png)
+
 **Response:**
 ```json
 {
@@ -97,6 +100,8 @@ curl -X POST http://localhost:8080/tshirt/123 \
 
 ```
 buildingapis/
+├── img/              # Example images and screenshots
+│   └── POST.png      # POST request example
 ├── index.js          # Main server file
 ├── package.json      # Project dependencies and scripts
 ├── package-lock.json # Dependency lock file
