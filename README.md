@@ -122,6 +122,7 @@ This project serves as a learning resource for:
 - Implementing basic validation
 - Structuring API responses
 
+
 ## License
 
 ISC
